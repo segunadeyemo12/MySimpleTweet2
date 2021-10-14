@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Twitter App.gif' title='Twitter App' width='' alt='Twitter App' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
